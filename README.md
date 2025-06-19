@@ -1,4 +1,4 @@
-<h3 align="center">IntervueAI: A job interview preparation platform powered by Vapi AI Voice agents</h3>
+<h1 align="center">IntervueAI: A job interview preparation platform powered by Vapi AI Voice agents</h1>
 
 
 
