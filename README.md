@@ -687,3 +687,11 @@ export const dummyInterviews: Interview[] = [
 ### 🔗 Live Project
 
 [https://intervue-ai-eight.vercel.app/](https://intervue-ai-eight.vercel.app/)
+
+
+
+
+
+<p align="center">
+  <img src="Screenshot 2025-07-30 215502.png" alt="App Screenshot" width="500"/>
+</p>
