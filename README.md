@@ -15,7 +15,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. - [🔗 Live Project](#-live-project)
+6. 🔗 [Live Project](#-live-project)
 
 
 
